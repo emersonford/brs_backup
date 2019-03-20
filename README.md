@@ -22,8 +22,8 @@ Configuration setting for brs_backup
 
 Should contain the following variables:  
 **bconsole_password**   - password to bconsole  
-**sql_username**        - username to core CHPC MySQL server  
-**sql_password**        - password to core CHPC MySQL server  
+**sql_username**        - username to MySQL server  
+**sql_password**        - password to MySQL server  
 
 ### logger.py
 
