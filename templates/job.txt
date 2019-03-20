@@ -1,0 +1,7 @@
+Job {{
+    Name = "{name}"
+    Client = {client}
+    JobDefs = {jobdef}
+    FileSet = "{fileset}"
+    Storage = {storage}
+}}

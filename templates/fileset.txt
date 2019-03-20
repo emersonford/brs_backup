@@ -1,0 +1,13 @@
+FileSet {{
+    Name = "{name}"
+    Description = "{description}"
+    Include {{
+        Options {{
+            Signature = MD5
+            aclsupport = yes
+            xattrsupport = yes
+            compression = {compression}
+        }}
+        File = "{file_location}"
+    }}
+}}
