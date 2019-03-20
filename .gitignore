@@ -1,3 +1,4 @@
+secrets.py
 .vscode
 __pycache__
 bazel*
